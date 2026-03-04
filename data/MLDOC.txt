@@ -303,4 +303,5 @@ a summary generator that can transform dense text into a high-quality
 summary, capture key points from financial reports, and generate meeting
 transcriptions?
 a data extraction capability to sort through complex details and quickly pull
+
 the necessary information from large documents?
